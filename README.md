@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://www.curseforge.com/minecraft/texture-packs/cute-pumpkin" target="_blank">
-    <img src="https://i.imgur.com/9ssJme1.png" alt="CurseForge" width="280" height="40">
+    <img src="https://i.imgur.com/9ssJme1.png" alt="CurseForge" width="280" height="60">
   </a>
   <a href="https://modrinth.com/resourcepack/cute-pumpkin" target="_blank">
-    <img src="https://i.imgur.com/Mcn4ceN.png" alt="Modrinth" width="280" height="40" style="margin-left: 20px;">
+    <img src="https://i.imgur.com/Mcn4ceN.png" alt="Modrinth" width="280" height="60" style="margin-left: 20px;">
   </a>
 </div>
 
