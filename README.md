@@ -1,3 +1,14 @@
+![banner](https://i.imgur.com/7WF6aNC.png)
+
+<div align="center">
+  <a href="https://www.curseforge.com/minecraft/texture-packs/cute-pumpkin" target="_blank">
+    <img src="https://i.imgur.com/9ssJme1.png" alt="CurseForge" width="280" height="40">
+  </a>
+  <a href="https://modrinth.com/resourcepack/cute-pumpkin" target="_blank">
+    <img src="https://i.imgur.com/Mcn4ceN.png" alt="Modrinth" width="280" height="40" style="margin-left: 20px;">
+  </a>
+</div>
+
 # 🎃 Cute Carved Pumpkin
 
 > Because even pumpkins deserve a glow-up.
